@@ -1,4 +1,2 @@
 CourseTests
-===========
 
-random stuff
